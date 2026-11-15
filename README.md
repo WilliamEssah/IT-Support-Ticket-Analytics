@@ -17,9 +17,9 @@ An end-to-end data analysis portfolio project examining **25,222 IT support tick
 
 ### 2. High-Urgency Strain
 ![Ticket Volume by Priority Level](visualizations/priority_distribution.png)
-* **Medium Priority:** 10,339 tickets (40.99%)[cite: 1]
-* **High Priority:** 9,790 tickets (38.82%)[cite: 1]
-* **Low Priority:** 5,093 tickets (20.19%)[cite: 1]
+* **Medium Priority:** 10,339 tickets (40.99%)
+* **High Priority:** 9,790 tickets (38.82%)
+* **Low Priority:** 5,093 tickets (20.19%)
 * **Operational Takeaway:** Nearly **80% of incoming tickets** are classified as Medium or High priority[cite: 1], indicating that support engineers spend the vast majority of their bandwidth resolving active operational blocks rather than routine requests.
 
 ### 3. Root Cause & Tag Clusters
