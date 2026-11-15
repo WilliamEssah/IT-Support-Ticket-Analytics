@@ -20,11 +20,11 @@ An end-to-end data analysis portfolio project examining **25,222 IT support tick
 * **Medium Priority:** 10,339 tickets (40.99%)
 * **High Priority:** 9,790 tickets (38.82%)
 * **Low Priority:** 5,093 tickets (20.19%)
-* **Operational Takeaway:** Nearly **80% of incoming tickets** are classified as Medium or High priority[cite: 1], indicating that support engineers spend the vast majority of their bandwidth resolving active operational blocks rather than routine requests.
+* **Operational Takeaway:** Nearly **80% of incoming tickets** are classified as Medium or High priority, indicating that support engineers spend the vast majority of their bandwidth resolving active operational blocks rather than routine requests.
 
 ### 3. Root Cause & Tag Clusters
-* Multi-tag aggregation revealed that system performance bottlenecks and bugs—specifically `['Bug', 'Performance', 'IT', 'Tech Support']` (**639 tickets**)[cite: 2]—represent the single most frequent issue cluster.
-* Security-related clusters (including `['Security', 'IT', 'Tech Support']` and `['Security', 'Virus', 'IT', 'Tech Support']`)[cite: 2] represent high-risk operational targets requiring proactive endpoint monitoring.
+* Multi-tag aggregation revealed that system performance bottlenecks and bugs—specifically `['Bug', 'Performance', 'IT', 'Tech Support']` (**639 tickets**) represent the single most frequent issue cluster.
+* Security-related clusters (including `['Security', 'IT', 'Tech Support']` and `['Security', 'Virus', 'IT', 'Tech Support']`) represent high-risk operational targets requiring proactive endpoint monitoring.
 
 ## Repository Structure
 ```text
